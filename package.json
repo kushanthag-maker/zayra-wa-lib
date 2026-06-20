@@ -1,0 +1,14 @@
+{
+  "name": "zayra-wa-lib",
+  "version": "1.0.0",
+  "description": "Custom WhatsApp Library based on Baileys",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^9.0.0"
+  }
+}
