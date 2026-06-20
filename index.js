@@ -1,5 +1,2 @@
-import { startConnection } from "./lib/connection.js";
-
-console.log("🚀 ZAYRA WA LIB Starting...");
-
-startConnection();
+export { startConnection } from "./connection.js";
+export { sendButtons } from "./buttons.js";
